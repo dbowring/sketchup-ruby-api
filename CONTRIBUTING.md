@@ -1,5 +1,8 @@
 # Contributing
 
+* ! Everything you contribute will fall under the license of this project (GPLv2)
+   * Make sure you are OK with that, and that what you are adding can be under those conditions
+
 ## Code/Examples
 
 ### How To
