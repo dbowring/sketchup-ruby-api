@@ -31,7 +31,7 @@ Examples should:
 * Use markdown syntax
 * When linking to other wiki pages, use the following form:
 
-```md
+```markdown
 [`PageName`](./PageName)
 <!-- For Example.... -->
 [`UI::WebDialog#set_url](./UI::WebDialog%23set_url)
