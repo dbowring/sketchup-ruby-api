@@ -37,7 +37,7 @@ Examples should:
 ```markdown
 [`PageName`](./PageName)
 <!-- For Example.... -->
-[`UI::WebDialog#set_url](./UI::WebDialog%23set_url)
+[`UI::WebDialog#set_url`](./UI::WebDialog%23set_url)
 <!-- Note the `#` is escaped -->
 ```
     
